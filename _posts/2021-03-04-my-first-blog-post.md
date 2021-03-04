@@ -1,6 +1,6 @@
 ---
 title: "One more blog post to join the sea"
-date: 04/03/21
+date: 2021-04-03
 ---
 well I guess this is blog one. Thought I'd mention how cool github is, but it's also pretty confusing :/ 
 I've coded in python (education, yay) and then realised... it isn't as useful as I thought. So now I'm branching out, github first.
