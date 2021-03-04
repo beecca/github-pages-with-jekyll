@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Hellooo and welcome :)
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you're here. I plan to talk about randomly disconnected things, because who needs certainty?
+
